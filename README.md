@@ -1,6 +1,6 @@
 # 📊 ETL Pipeline and Interactive Stock Dashboard
 
-This project was developed with the goal of practicing and integrating knowledge in data engineering, cloud automation, and interactive visualization, creating an end-to-end solution for stock market analysis.
+This project was developed with the goal of practicing and integrating knowledge in **data engineering**, **cloud automation**, and **interactive visualization**, creating an end-to-end solution for stock market analysis.
 
 ## Project Objective
 
@@ -44,9 +44,10 @@ You can simply explore the project by viewing the code or accessing the public l
 - **Processed Data:** [Google Sheets](https://docs.google.com/spreadsheets/d/1H779bzHVLrPaaHEuLEIRsJt1OdSXKBu02GmlhST2EjI/)  
 
 To review the code:  
-```bash
+```
 git clone https://github.com/your-username/financial-data-pipeline.git
-cd financial-data-pipeline``
+cd financial-data-pipeline
+```
 
 The dashboard shows:  
 - **Closing price** → daily and consolidated values per stock.  
