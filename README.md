@@ -78,4 +78,4 @@ AAPL (Apple), MSFT (Microsoft), GOOGL (Google), AMZN (Amazon), TSLA (Tesla), MET
 
 This project simulates a real market solution, focusing on **automation, scalability, and UI**.  
 More than just extracting data, the goal was to **build a complete data journey**, from back-end to front-end.
-
+The stock prices used in this project come from publicly available sources and may vary over time due to dataset updates or corrections. 
